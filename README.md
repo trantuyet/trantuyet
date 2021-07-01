@@ -18,7 +18,7 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-
+<h1>Nhìn thì có vẻ là biết nhiều nhưng thực ra con này nó có biết cái bỏ mẹ gì đâu, ngu không thứ nào độ </h1>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trantuyet&show_icons=true&locale=en&layout=compact" alt="trantuyet" /></p>
