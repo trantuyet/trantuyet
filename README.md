@@ -1,9 +1,9 @@
 # Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="center">
   
 <!---
+<h3 align="left">Languages & Tools:</h3>
+<p align="center">
+
 //<a href="https://php.net"></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 //<a href="https://laravel.com"></a> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="php" width="40" height="40"/> </a>
 //<a href="https://book.cakephp.org/"></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-plain.svg" alt="php" width="40" height="40"/> </a>
