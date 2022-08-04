@@ -2,7 +2,8 @@
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="center">
-
+  
+<!---
 //<a href="https://php.net"></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 //<a href="https://laravel.com"></a> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="php" width="40" height="40"/> </a>
 //<a href="https://book.cakephp.org/"></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-plain.svg" alt="php" width="40" height="40"/> </a>
@@ -18,6 +19,7 @@
 //<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="php" width="40" height="40"/> </a>
 //<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 //<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+---!>
 
 <h1>Lazy n Rude</h1>
 </p>
